@@ -5,4 +5,4 @@ This repository is made for uploading past assignments of a machine learning cla
 The assignments include:
 
 1. Curve Fitting
-
+    1.
