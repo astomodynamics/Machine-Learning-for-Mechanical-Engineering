@@ -4,5 +4,5 @@ This repository is made for uploading past assignments of a machine learning cla
 
 The assignments include:
 
-Markup : 1. Curve Fitting
+1. Curve Fitting
 
