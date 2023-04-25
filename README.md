@@ -6,5 +6,7 @@ The assignments include:
 
 1. Curve Fitting
 2. Regression
+3. Bayesian network
+4. Unsupervised learning
 
   
